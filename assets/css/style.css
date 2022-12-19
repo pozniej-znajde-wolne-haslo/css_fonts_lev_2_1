@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Tahoma';
+    font-size: 38px;
+    color: white;
+    background-color: rgb(104, 102, 102);
+    text-align: center;
+    text-shadow: rgb(25, 24, 24) 5px 5px 5px;
+    padding: 8px 8px;
+}
+
+section p:first-of-type {
+    font-family: 'Lucida Sans Unicode';
+    font-size: small;
+    text-indent: 40px;
+    word-spacing: 18px;
+    line-height: 14px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+section p:last-of-type {
+    padding-left: 15px;
+    padding-right: 10px;
+    text-indent: 50px;
+    word-spacing: -2px;
+    font-size: smaller;
+}
+
+h2 {
+    letter-spacing: 7px;
+    text-shadow: grey 2px 2px 2px ;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+article p:first-of-type {
+    background-color: rgb(194, 192, 192);
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    line-height: 20px;
+    font-size: smaller;
+
+}
+
+article p:nth-of-type(2) {
+    background-color: rgb(82, 78, 78);
+    color: white;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-size: small;
+    line-height: 35px;
+
+
+}
